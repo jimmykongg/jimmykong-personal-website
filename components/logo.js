@@ -25,6 +25,7 @@ const Logo = () => {
             fontFamily='M PLUS Rounded 1c' 
             fontweight="bold" 
             ml={3}
+            mb={5}
           >
             Jimmy Kong
           </Text>
