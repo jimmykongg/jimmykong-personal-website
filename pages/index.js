@@ -7,7 +7,6 @@ import {
   Link,
   List,
   ListItem,
-  SimpleGrid,
   Icon,
   useColorModeValue
 } from '@chakra-ui/react'
@@ -16,7 +15,6 @@ import Paragraph from '../components/paragraph'
 import NextLink from 'next/link'
 import { ChevronRightIcon } from '@chakra-ui/icons'
 import { BioSection, BioYear } from '../components/bio'
-import { GridItem } from '../components/grid-item'
 import Layout from '../components/layouts/article.js'
 import {
   IoLogoLinkedin,
