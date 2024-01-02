@@ -44,7 +44,7 @@ const Page = () => {
               Jimmy Kong
             </Heading>
 
-            <p>Newbie Full-stack developer</p>
+            <p>Novice Full-stack developer</p>
           </Box>
 
           <Box
@@ -71,7 +71,12 @@ const Page = () => {
             Profile
           </Heading>
 
-          <Paragraph>Paragraph</Paragraph>
+          <Paragraph>
+            Why would I want to be a developer? Good question! 
+            I had an experience developing an algo-trading strategy using Python in one of my business courses. 
+            That experience raised my interest in programming. 
+            The longer I explore the programming landscape, the more fun I discover.
+          </Paragraph>
 
           <Box align="center" my={4}>
             <NextLink href="/projects">

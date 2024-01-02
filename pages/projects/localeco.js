@@ -19,7 +19,8 @@ const Project = () => {
         </Title>
 
         <P>
-          My first academic team project! A web application to help users find nearest recycling bin around them. They can get virtual rewards after a
+          My first academic team project! A web application to encourage recycling. It help users find their nearest recycling bin. 
+          They can get virtual rewards after accumulating sufficient rewards point.
         </P>
 
         <List ml={4} my={4}>
